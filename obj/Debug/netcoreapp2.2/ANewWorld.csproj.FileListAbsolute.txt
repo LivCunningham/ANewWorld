@@ -1,0 +1,11 @@
+C:\Users\Olivia Cunningham\ANewWorld\bin\Debug\netcoreapp2.2\ANewWorld.deps.json
+C:\Users\Olivia Cunningham\ANewWorld\bin\Debug\netcoreapp2.2\ANewWorld.runtimeconfig.json
+C:\Users\Olivia Cunningham\ANewWorld\bin\Debug\netcoreapp2.2\ANewWorld.runtimeconfig.dev.json
+C:\Users\Olivia Cunningham\ANewWorld\bin\Debug\netcoreapp2.2\ANewWorld.dll
+C:\Users\Olivia Cunningham\ANewWorld\bin\Debug\netcoreapp2.2\ANewWorld.pdb
+C:\Users\Olivia Cunningham\ANewWorld\obj\Debug\netcoreapp2.2\ANewWorld.csprojAssemblyReference.cache
+C:\Users\Olivia Cunningham\ANewWorld\obj\Debug\netcoreapp2.2\ANewWorld.csproj.CoreCompileInputs.cache
+C:\Users\Olivia Cunningham\ANewWorld\obj\Debug\netcoreapp2.2\ANewWorld.AssemblyInfoInputs.cache
+C:\Users\Olivia Cunningham\ANewWorld\obj\Debug\netcoreapp2.2\ANewWorld.AssemblyInfo.cs
+C:\Users\Olivia Cunningham\ANewWorld\obj\Debug\netcoreapp2.2\ANewWorld.dll
+C:\Users\Olivia Cunningham\ANewWorld\obj\Debug\netcoreapp2.2\ANewWorld.pdb
